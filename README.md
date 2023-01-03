@@ -1,4 +1,4 @@
-# bypassi-links
+# GuardFix
 
 Links For Unblocking a school chromebook that is blocked using goguardian
 
