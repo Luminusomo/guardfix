@@ -1,6 +1,6 @@
 # bypassi-links
 
-Links For Unbl*cking a school chromebook that is bl*cked using goguardian
+Links For Unblocking a school chromebook that is blocked using goguardian
 
 LINKS
 
